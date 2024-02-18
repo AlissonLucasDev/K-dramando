@@ -1,0 +1,24 @@
+*{
+ background-color: grey;
+}
+
+.barrasup{
+  background-color: pink;
+  margin: -10px;
+  padding: 20px;
+  border: 3px solid black;
+}
+
+.menu{
+  float: right;
+  background: transparent;
+}
+
+.home{
+  float: left;
+  background: transparent;
+}
+
+.conteiner{
+  background-color: #f1234526;
+}
