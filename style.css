@@ -11,7 +11,7 @@ header{
   background-color: transparent;
 }
 
-.doramas{
+.box{
   display: flex;
   flex-direction: column;
 }
@@ -40,7 +40,7 @@ a{
  border-bottom: 3px solid black;
 }
 
-.infoDorama{
+div{
   display: flex;
   color: grey;
   background-color: #fff;
